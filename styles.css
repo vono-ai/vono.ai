@@ -52,7 +52,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
     min-width:320px;
     overflow-x:hidden;
     word-wrap:break-word;
-    background-color:#F0F0F0;
+    background-color:#262626;
   }
   :root {
     --background-height:100vh;
@@ -338,7 +338,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
     margin-top:1rem;
   }
   h1.style1,h2.style1,h3.style1,p.style1 {
-    color:#000000;
+    color:#FFFFFF;
     font-family:'Inter',sans-serif;
     font-size:4.75em;
     line-height:1.125;
@@ -354,7 +354,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
     margin-top:1rem;
   }
   h1.style4,h2.style4,h3.style4,p.style4 {
-    color:#000000;
+    color:#FFFFFF;
     font-family:'Inter',sans-serif;
     font-size:2em;
     line-height:1.375;
@@ -374,7 +374,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
     margin-top:1rem;
   }
   h1.style5,h2.style5,h3.style5,p.style5 {
-    color:#000000;
+    color:#FFFFFF;
     font-family:'Inter',sans-serif;
     font-size:2em;
     line-height:1.375;
@@ -462,8 +462,8 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
     width:100%;
   }
   .buttons.style1 .button {
-    background-color:#FFFFFF;
-    color:#000000;
+    background-color:#121212;
+    color:#FFFFFF;
   }
   .buttons.style1 li a:hover {
     transform:scale(1.0425);
@@ -819,7 +819,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
     transition:fill 0.25s ease;
   }
   #icons01 a svg {
-    fill:#000000;
+    fill:#ffffff;
   }
   #icons01 li a + svg {
     transition:fill 0.25s ease,stroke 0.25s ease;
